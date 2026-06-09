@@ -1,9 +1,10 @@
 <Solution>
-  <Folder Name="/Common/">
-    <File Path=".github\workflows\build-master.yml" />
-    <File Path=".github\workflows\publish-nuget.yml" />
-    <File Path="Directory.Build.props" />
-  </Folder>
-  <Project Path="sources/Bnr.Toolkit.Demo/Bnr.Toolkit.Demo.csproj" />
-  <Project Path="sources/Bnr.Toolkit/Bnr.Toolkit.csproj" />
+	<Folder Name="/Common/">
+		<File Path=".github\workflows\build-master.yml" />
+		<File Path=".github\workflows\publish-nuget.yml" />
+		<File Path="changelog.txt" />
+		<File Path="Directory.Build.props" />
+	</Folder>
+	<Project Path="sources/Bnr.Toolkit.Demo/Bnr.Toolkit.Demo.csproj" />
+	<Project Path="sources/Bnr.Toolkit/Bnr.Toolkit.csproj" />
 </Solution>

@@ -3,3 +3,4 @@ BNR Toolkit
 
 v1.0.0
 --------------------------------------------------------------------------------
+[new   ] Added support to retrieve exchange rates (NBR files) from BNR web site.
