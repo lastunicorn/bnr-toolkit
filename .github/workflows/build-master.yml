@@ -24,7 +24,7 @@ jobs:
             10.0.x
 
       - name: Restore
-        run: dotnet restore ./sources/Bnr.Toolkit.slnx --configfile ./nuget.config
+        run: dotnet restore ./Bnr.Toolkit.slnx --configfile ./nuget.config
 
       - name: Build
-        run: dotnet build ./sources/Bnr.Toolkit.slnx -c Release --no-restore
+        run: dotnet build ./Bnr.Toolkit.slnx -c Release --no-restore
