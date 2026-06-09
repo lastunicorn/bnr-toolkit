@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="sources/Bnr.Toolkit.Demo/Bnr.Toolkit.Demo.csproj" />
+  <Project Path="sources/Bnr.Toolkit/Bnr.Toolkit.csproj" />
+</Solution>
