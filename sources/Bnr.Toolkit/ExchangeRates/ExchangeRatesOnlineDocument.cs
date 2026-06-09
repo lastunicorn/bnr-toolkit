@@ -22,7 +22,13 @@ public static class ExchangeRatesOnlineDocument
 		return await ExchangeRatesDocument.LoadAsync(stream);
 	}
 
+	[Obsolete("Use LoadByYear instead.")]
 	public static async Task<ExchangeRatesDocument> LoadForYear(int year, CancellationToken cancellationToken = default)
+	{
+		return await LoadByYear(year, cancellationToken);
+	}
+
+	public static async Task<ExchangeRatesDocument> LoadByYear(int year, CancellationToken cancellationToken = default)
 	{
 		const string urlTemplate = "https://www.bnr.ro/files/xml/years/nbrfxrates{0}.xml";
 		string url = string.Format(urlTemplate, year);

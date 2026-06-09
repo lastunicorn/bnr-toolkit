@@ -43,7 +43,7 @@ internal static class Program
 	/// </summary>
 	private static async Task LoadExchangeRatesFromWeb(int year)
 	{
-		ExchangeRatesDocument exchangeRatesDocument = await ExchangeRatesOnlineDocument.LoadForYear(year);
+		ExchangeRatesDocument exchangeRatesDocument = await ExchangeRatesOnlineDocument.LoadByYear(year);
 		Display(exchangeRatesDocument, "EUR");
 	}
 

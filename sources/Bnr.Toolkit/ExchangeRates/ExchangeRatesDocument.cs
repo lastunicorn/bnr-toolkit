@@ -36,32 +36,9 @@ public class ExchangeRatesDocument
 					: DateOnly.Parse(nbrDataSet.Header.PublishingDate),
 				ReferenceCurrency = nbrDataSet?.Body?.OrigCurrency,
 				Cubes = nbrDataSet?.Body?.Cubes
-					.Select(ToCube)
+					.Select(x => x.ToCube())
 					.ToList() ?? []
 			};
 		});
-	}
-
-	private static Cube ToCube(NbrCube nbrCube)
-	{
-		return new Cube
-		{
-			Date = nbrCube.Date,
-			Rates = nbrCube.Rates
-				.Select(ToRate)
-				.ToList()
-		};
-	}
-
-	private static ExchangeRate ToRate(NbrRate nbrRate)
-	{
-		return new ExchangeRate
-		{
-			Currency = nbrRate.Currency,
-			Multiplier = nbrRate.Multiplier == null
-				? 1
-				: decimal.Parse(nbrRate.Multiplier),
-			Value = decimal.Parse(nbrRate.Value)
-		};
 	}
 }
