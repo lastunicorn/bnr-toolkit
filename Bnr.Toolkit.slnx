@@ -1,5 +1,7 @@
 <Solution>
   <Folder Name="/Common/">
+    <File Path=".github\workflows\build-master.yml" />
+    <File Path=".github\workflows\publish-nuget.yml" />
     <File Path="Directory.Build.props" />
   </Folder>
   <Project Path="sources/Bnr.Toolkit.Demo/Bnr.Toolkit.Demo.csproj" />
