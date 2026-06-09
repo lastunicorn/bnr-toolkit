@@ -12,4 +12,14 @@
 		<ProjectReference Include="..\Bnr.Toolkit\Bnr.Toolkit.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="ConsoleTools.Controls.Tables" Version="1.2.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="nbrfxrates2005.xml">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
 </Project>

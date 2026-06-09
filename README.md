@@ -31,7 +31,29 @@ dotnet add package DustInTheWind.Bnr.Toolkit
 
 TBD
 
-## CSV Document
+## NBR Document
+
+The NBR files, full name NBR FX Rates files, are XML files containing the BNR exchange rates for different currencies:
+
+- https://www.bnr.ro/23988-cursurile-pietei-valutare-in-format-xml
+
+**Document locations**
+
+- Last entry (day)
+  - https://curs.bnr.ro/nbrfxrates.xml
+
+- Last 10 entries (days)
+  - https://curs.bnr.ro/nbrfxrates10days.xml
+- Whole year:
+  - `https://www.bnr.ro/files/xml/years/nbrfxrates<year>.xml`
+
+**The XSD schema**
+
+- https://curs.bnr.ro/xsd/nbrfxrates.xsd
+
+## BNR Document
+
+Older format
 
 TBD
 
