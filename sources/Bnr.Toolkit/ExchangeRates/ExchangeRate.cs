@@ -4,7 +4,5 @@ public class ExchangeRate
 {
 	public Currency Currency { get; set; }
 
-	public decimal Multiplier { get; set; }
-
 	public decimal Value { get; set; }
 }

@@ -1,14 +1,14 @@
-using DustInTheWind.Bnr.Toolkit.ExchangeRates.NbrModel;
+using DustInTheWind.Bnr.Toolkit.ExchangeRates.NbrXmlModel;
 
 namespace DustInTheWind.Bnr.Toolkit.ExchangeRates;
 
 internal static class NbrCubeExtensions
 {
-	public static Cube ToCube(this NbrCube nbrCube)
+	public static DailyExchangeRates ToCube(this NbrCube nbrCube)
 	{
-		return new Cube
+		return new DailyExchangeRates
 		{
-			Date = nbrCube.Date,
+			Date = DateOnly.Parse(nbrCube.Date),
 			Rates = nbrCube.Rates
 				.Where(x => x.Value != null && x.Value != "-")
 				.Select(x => x.ToExchangeRate())

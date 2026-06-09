@@ -27,31 +27,55 @@ public sealed record class Currency
 	public static readonly Currency USD = new("USD");
 	public static readonly Currency XAU = new("XAU");
 	public static readonly Currency XDR = new("XDR");
+	public static readonly Currency AED = new("AED");
+	public static readonly Currency BRL = new("BRL");
+	public static readonly Currency CNY = new("CNY");
+	public static readonly Currency HRK = new("HRK");
+	public static readonly Currency INR = new("INR");
+	public static readonly Currency KRW = new("KRW");
+	public static readonly Currency MXN = new("MXN");
+	public static readonly Currency NZD = new("NZD");
+	public static readonly Currency RSD = new("RSD");
+	public static readonly Currency THB = new("THB");
+	public static readonly Currency UAH = new("UAH");
+	public static readonly Currency ZAR = new("ZAR");
 
-	private static readonly Dictionary<string, Currency> KnownValues = new(StringComparer.OrdinalIgnoreCase)
+	public static readonly IReadOnlySet<Currency> KnownValues = new HashSet<Currency>
 	{
-		[RON.Value] = RON,
-		[AUD.Value] = AUD,
-		[BGN.Value] = BGN,
-		[CAD.Value] = CAD,
-		[CHF.Value] = CHF,
-		[CZK.Value] = CZK,
-		[DKK.Value] = DKK,
-		[EGP.Value] = EGP,
-		[EUR.Value] = EUR,
-		[GBP.Value] = GBP,
-		[HUF.Value] = HUF,
-		[JPY.Value] = JPY,
-		[MDL.Value] = MDL,
-		[NOK.Value] = NOK,
-		[PLN.Value] = PLN,
-		[RUB.Value] = RUB,
-		[SEK.Value] = SEK,
-		[SKK.Value] = SKK,
-		[TRY.Value] = TRY,
-		[USD.Value] = USD,
-		[XAU.Value] = XAU,
-		[XDR.Value] = XDR
+		RON,
+		AUD,
+		BGN,
+		CAD,
+		CHF,
+		CZK,
+		DKK,
+		EGP,
+		EUR,
+		GBP,
+		HUF,
+		JPY,
+		MDL,
+		NOK,
+		PLN,
+		RUB,
+		SEK,
+		SKK,
+		TRY,
+		USD,
+		XAU,
+		XDR,
+		AED,
+		BRL,
+		CNY,
+		HRK,
+		INR,
+		KRW,
+		MXN,
+		NZD,
+		RSD,
+		THB,
+		UAH,
+		ZAR
 	};
 
 	public string Value { get; }

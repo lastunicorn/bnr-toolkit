@@ -1,0 +1,728 @@
+<DataSet xsi:schemaLocation="http://www.bnr.ro/xsd nbrfxrates.xsd">
+	<NumeClasaStatistica>serii zilnice</NumeClasaStatistica>
+	<ObservatiiClasaStatistica/>
+	<NotaClasaStatistica> serii disponibile începând din iulie 2005</NotaClasaStatistica>
+	<Metodologie/>
+	<Table>
+		<Row>
+			<Data>31.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1795</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3781</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,8998</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2066</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6617</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1504</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9221</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,6028</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012639</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034868</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2408</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4512</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0451</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4345</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2417</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5466</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">278,5779</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1301</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0644</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5166</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2601</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8886</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6728</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0555</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003673</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2416</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9183</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0419</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1231</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2378</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1375</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>30.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1876</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3744</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,8925</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2056</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6592</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1497</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9030</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5798</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012523</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034587</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2401</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4554</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0411</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4362</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2389</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,4936</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">278,6082</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,0788</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0646</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5068</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2603</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8795</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6656</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0551</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003661</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2395</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9222</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0418</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1217</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2234</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1375</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>27.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1965</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3738</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,8793</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2053</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6577</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1503</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,8922</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5612</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012615</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034620</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2384</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4552</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0395</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4363</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2388</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,4928</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">278,5647</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,0695</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0648</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5013</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2615</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8868</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6622</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0551</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003640</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2395</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9159</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0417</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1217</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2232</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1368</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>26.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1889</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3470</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,8787</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2054</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6569</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1499</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,8858</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5520</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012576</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034552</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2384</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4539</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0351</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4380</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2381</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,4803</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,0697</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,0562</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0649</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,4980</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2624</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8831</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6604</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0549</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003634</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2385</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9061</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0416</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1213</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2198</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1369</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>25.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1958</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3710</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,8877</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2056</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6590</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1506</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9016</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5473</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012567</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034684</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2386</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4555</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0399</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4400</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2398</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5101</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,2843</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,0856</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0653</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5061</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2619</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8775</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6648</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0553</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003647</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2398</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9198</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0418</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1221</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2279</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1373</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>23.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1648</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3786</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9102</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2060</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6613</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1509</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9198</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5862</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012450</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034733</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2399</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4595</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0429</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4412</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2400</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5132</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,7558</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,0985</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0657</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5154</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2633</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8666</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6652</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0554</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003674</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2396</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9280</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0419</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1222</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2287</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1378</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>20.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1510</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3751</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9445</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2057</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6621</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1523</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9255</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,6182</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012460</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035059</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2398</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4603</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0452</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4412</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2417</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5451</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">282,0325</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1316</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0662</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5183</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2633</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8783</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6703</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0560</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003683</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2401</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9179</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1230</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2374</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1386</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>19.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1358</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3747</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9653</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2058</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6626</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1531</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9293</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,6181</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012465</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035433</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2399</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4590</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0483</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4433</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2425</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5551</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,5194</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1448</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0662</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5203</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2650</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8782</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6712</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0560</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003682</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2404</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9086</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1233</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2402</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1378</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>18.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1924</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4020</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9796</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2057</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6634</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1532</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9355</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,6114</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012467</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035189</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2393</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4623</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0495</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4418</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2420</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5455</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,6949</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1400</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0662</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5235</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2679</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8911</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6732</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0559</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003685</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2445</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9449</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0421</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1231</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2375</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1383</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>17.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1629</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,3942</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9386</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2055</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6629</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1535</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9314</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5665</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012353</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035347</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2386</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4585</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0489</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4364</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2427</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5583</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,3302</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1431</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0664</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5214</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2659</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8855</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6722</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0557</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003676</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2424</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9067</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1234</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2410</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1375</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>16.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1781</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4076</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9250</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2058</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6641</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1541</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9405</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5737</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012386</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035535</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2388</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4614</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0518</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4384</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2428</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5614</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">281,0314</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1578</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0668</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5260</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2669</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8952</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6778</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0559</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003688</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2422</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9172</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0421</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1235</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2419</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1382</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>13.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1805</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4159</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9145</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2057</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6642</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1543</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9413</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5749</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012484</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035493</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2395</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4622</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0534</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4389</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2429</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5588</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">279,1824</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1570</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0677</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5264</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2705</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8924</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6787</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0560</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003685</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2422</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9146</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0421</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1235</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2412</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1382</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>12.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1678</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4154</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9209</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2054</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6636</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1506</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9359</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5861</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012358</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034989</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2394</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4590</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0520</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4372</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2441</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5851</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">277,7474</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1654</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0676</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5237</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2714</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8885</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6796</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0562</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003681</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2425</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9138</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0421</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1241</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2483</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1373</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>11.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1678</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4174</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9726</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2053</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6633</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1455</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9328</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5700</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012340</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034644</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2393</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4595</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0530</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4383</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2444</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5891</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">277,9877</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1585</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0666</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5221</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2704</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8825</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6778</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0562</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003678</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2409</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9190</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1243</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2494</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1376</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>10.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1629</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4259</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9798</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2051</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6622</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1665</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9253</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5820</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012357</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034759</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2396</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4619</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0497</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4406</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2443</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,5868</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">276,3782</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1556</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0660</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5182</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2693</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8728</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6767</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0561</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003681</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2402</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9262</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1242</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2488</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1368</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>09.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1886</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4446</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9908</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2051</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6622</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1672</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9252</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5943</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012403</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034797</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2443</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4644</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0500</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4404</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2458</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,6151</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">277,8808</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1772</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0662</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5182</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2705</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8831</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6801</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0560</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003704</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2408</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9425</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1249</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2565</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1376</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>06.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1613</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4416</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9914</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2048</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6628</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1724</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9293</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5610</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012409</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,034901</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2422</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4565</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0492</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4366</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2499</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,6894</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">276,9433</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,2240</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0653</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5203</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2721</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8763</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6833</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0567</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003684</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2429</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9127</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1269</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2767</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1378</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>05.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1682</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4359</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">5,0041</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2050</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6621</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1728</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9243</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5809</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012450</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035020</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2423</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4604</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0537</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4408</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2472</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,6388</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">275,7687</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1871</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0645</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5177</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2732</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8541</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6751</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0562</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003656</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2400</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9176</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1256</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2629</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1369</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>04.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1902</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4244</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">5,0052</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2047</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6624</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1772</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9264</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,6020</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012393</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035561</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2442</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4618</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0557</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4409</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2476</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,6388</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">277,2928</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,1958</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0651</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5188</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2761</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8466</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6743</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0561</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003650</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2404</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9357</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1256</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2631</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1363</CURSZ_THB>
+		</Row>
+		<Row>
+			<Data>03.01.2023</Data>
+			<CURSZ_AUD FullName="dolar australian" MeasureUnit="lei">3,1363</CURSZ_AUD>
+			<CURSZ_CAD FullName="dolar canadian" MeasureUnit="lei">3,4311</CURSZ_CAD>
+			<CURSZ_CHF FullName="franc elveţian" MeasureUnit="lei">4,9834</CURSZ_CHF>
+			<CURSZ_CZK FullName="coroană cehească" MeasureUnit="lei">0,2041</CURSZ_CZK>
+			<CURSZ_DKK FullName="coroană daneză" MeasureUnit="lei">0,6625</CURSZ_DKK>
+			<CURSZ_EGP FullName="liră egipteană" MeasureUnit="lei">0,1887</CURSZ_EGP>
+			<CURSZ_EUR FullName="euro" MeasureUnit="lei">4,9273</CURSZ_EUR>
+			<CURSZ_GBP FullName="liră sterlină" MeasureUnit="lei">5,5720</CURSZ_GBP>
+			<CURSZ_HUF FullName="forint unguresc" MeasureUnit="lei">0,012218</CURSZ_HUF>
+			<CURSZ_JPY FullName="yen japonez" MeasureUnit="lei">0,035797</CURSZ_JPY>
+			<CURSZ_MDL FullName="leu moldovenesc" MeasureUnit="lei">0,2407</CURSZ_MDL>
+			<CURSZ_NOK FullName="coroană norvegiană" MeasureUnit="lei">0,4701</CURSZ_NOK>
+			<CURSZ_PLN FullName="zlot polonez" MeasureUnit="lei">1,0518</CURSZ_PLN>
+			<CURSZ_SEK FullName="coroană suedeză" MeasureUnit="lei">0,4434</CURSZ_SEK>
+			<CURSZ_TRY FullName="liră turcească" MeasureUnit="lei">0,2496</CURSZ_TRY>
+			<CURSZ_USD FullName="dolar SUA" MeasureUnit="lei">4,6766</CURSZ_USD>
+			<CURSZ_XAU FullName="gram de aur" MeasureUnit="lei/gram">275,9130</CURSZ_XAU>
+			<CURSZ_XDR FullName="DST" MeasureUnit="lei">6,2220</CURSZ_XDR>
+			<CURSZ_RUB FullName="rublă rusească" MeasureUnit="lei">0,0641</CURSZ_RUB>
+			<CURSZ_SKK FullName="coroană slovacă" MeasureUnit="lei">-</CURSZ_SKK>
+			<CURSZ_BGN FullName="levă bulgarească" MeasureUnit="lei">2,5193</CURSZ_BGN>
+			<CURSZ_ZAR FullName="rand sud-african" MeasureUnit="lei">0,2737</CURSZ_ZAR>
+			<CURSZ_BRL FullName="real brazilian" MeasureUnit="lei">0,8719</CURSZ_BRL>
+			<CURSZ_CNY FullName="renminbi chinezesc" MeasureUnit="lei">0,6771</CURSZ_CNY>
+			<CURSZ_INR FullName="rupia indiană" MeasureUnit="lei">0,0564</CURSZ_INR>
+			<CURSZ_KRW FullName="won sud-coreean" MeasureUnit="lei">0,003656</CURSZ_KRW>
+			<CURSZ_MXN FullName="peso mexican" MeasureUnit="lei">0,2396</CURSZ_MXN>
+			<CURSZ_NZD FullName="dolar neo-zeelandez" MeasureUnit="lei">2,9077</CURSZ_NZD>
+			<CURSZ_RSD FullName="dinar sârbesc" MeasureUnit="lei">0,0420</CURSZ_RSD>
+			<CURSZ_UAH FullName="hryvna ucraineană" MeasureUnit="lei">0,1266</CURSZ_UAH>
+			<CURSZ_AED FullName="dirhamul Emiratelor Arabe Unite" MeasureUnit="lei">1,2733</CURSZ_AED>
+			<CURSZ_HRK FullName="kuna croată" MeasureUnit="lei">-</CURSZ_HRK>
+			<CURSZ_THB FullName="bahtul thailandez" MeasureUnit="lei">0,1358</CURSZ_THB>
+		</Row>
+	</Table>
+</DataSet>

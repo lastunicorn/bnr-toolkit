@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace DustInTheWind.Bnr.Toolkit.ExchangeRates.NbrModel;
+namespace DustInTheWind.Bnr.Toolkit.ExchangeRates.NbrXmlModel;
 
 [XmlRoot("DataSet", Namespace = "http://www.bnr.ro/xsd")]
 public class NbrDataSet

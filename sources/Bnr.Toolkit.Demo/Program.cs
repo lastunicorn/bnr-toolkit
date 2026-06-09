@@ -16,6 +16,15 @@ internal static class Program
 		//await LoadExchangeRatesFromWeb10();
 		//await LoadExchangeRatesFromWeb(2026);
 		//await LoadExchangeRatesFromFile();
+		
+		await LoadExchangeRatesFromOldXml();
+	}
+
+	private static async Task LoadExchangeRatesFromOldXml()
+	{
+		FileStream fileStream = File.OpenRead("old-daily-rates-2023.xml");
+		ExchangeRatesDocument exchangeRatesDocument = await ExchangeRatesDocument.LoadAsync(fileStream, DocumentType.OutdatedXmlDaily);
+		Display(exchangeRatesDocument, "EUR");
 	}
 
 	/// <summary>
@@ -63,22 +72,20 @@ internal static class Program
 		DataGrid dataGrid = new()
 		{
 			Title = $"Exchange rates for {currency}",
-			Footer = $"Count: {exchangeRatesDocument.Cubes.Count}"
+			Footer = $"Count: {exchangeRatesDocument.DailyExchangeRates.Count}"
 		};
 
 		dataGrid.Columns.Add("Date");
 		dataGrid.Columns.Add("Rates", HorizontalAlignment.Right);
-		dataGrid.Columns.Add("Multiplier", HorizontalAlignment.Right);
 
-		foreach (Cube cube in exchangeRatesDocument.Cubes)
+		foreach (DailyExchangeRates cube in exchangeRatesDocument.DailyExchangeRates)
 		{
 			ExchangeRate exchangeRate = cube.Rates
 				.FirstOrDefault(x => x.Currency == currency);
 
 			string value = exchangeRate?.Value.ToString() ?? "N/A";
-			string multiplier = exchangeRate?.Multiplier.ToString();
 
-			dataGrid.Rows.Add(cube.Date, value, multiplier);
+			dataGrid.Rows.Add(cube.Date, value);
 		}
 
 		dataGrid.Display();

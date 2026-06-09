@@ -1,9 +1,9 @@
 ﻿using System.Xml.Serialization;
 
-namespace DustInTheWind.Bnr.Toolkit.BnrFiles.BnrModels;
+namespace DustInTheWind.Bnr.Toolkit.ExchangeRates.Outdated.OldXmlModel;
 
 [XmlRoot("DataSet", Namespace = "http://www.bnr.ro/xsd")]
-public class BnrDataSet
+public class OldXmlDataSet
 {
     public string NumeClasaStatistica { get; set; }
 
@@ -13,5 +13,5 @@ public class BnrDataSet
 
     public string Metodologie { get; set; }
 
-    public BnrTable Table { get; set; }
+    public OldXmlTable Table { get; set; }
 }

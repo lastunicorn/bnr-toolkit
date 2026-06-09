@@ -1,8 +1,8 @@
 ﻿using System.Xml.Serialization;
 
-namespace DustInTheWind.Bnr.Toolkit.BnrFiles.BnrModels;
+namespace DustInTheWind.Bnr.Toolkit.ExchangeRates.Outdated.OldXmlModel;
 
-public class BnrCursEur
+public class OldXmlCursZ
 {
     [XmlAttribute]
     public string FullName { get; set; }
