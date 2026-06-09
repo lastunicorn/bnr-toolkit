@@ -5,7 +5,7 @@ BNR Toolkit
 v1.2.0 (breaking changes)
 --------------------------------------------------------------------------------
 [change] Added support for reading exchange rate files in the old XML format.
-[delete] Removed the BcrModels namespace and its content.
+[delete] Removed the BnrModels namespace and its content.
 
 
 v1.1.0
