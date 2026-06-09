@@ -8,7 +8,9 @@ internal static class Program
 {
 	private static async Task Main(string[] args)
 	{
+		// --------------------------------------------------
 		// Uncomment the method you want to test.
+		// --------------------------------------------------
 		
 		//await LoadExchangeRatesFromWeb1();
 		//await LoadExchangeRatesFromWeb10();
@@ -16,24 +18,39 @@ internal static class Program
 		//await LoadExchangeRatesFromFile();
 	}
 
+	/// <summary>
+	/// Retrieves the exchange rates for the last day from the BNR website.
+	/// BNR has a dedicated URL for this purpose.
+	/// </summary>
 	private static async Task LoadExchangeRatesFromWeb1()
 	{
 		ExchangeRatesDocument exchangeRatesDocument = await ExchangeRatesOnlineDocument.LoadLastOneAsync();
 		Display(exchangeRatesDocument, "EUR");
 	}
 
+	/// <summary>
+	/// Retrieves the exchange rates for the last ten days from the BNR website.
+	/// BNR has a dedicated URL for this purpose.
+	/// </summary>
 	private static async Task LoadExchangeRatesFromWeb10()
 	{
 		ExchangeRatesDocument exchangeRatesDocument = await ExchangeRatesOnlineDocument.LoadLastTenAsync();
 		Display(exchangeRatesDocument, "EUR");
 	}
 
+	/// <summary>
+	/// Retrieves the exchange rates for the specified year from the BNR website.
+	/// </summary>
 	private static async Task LoadExchangeRatesFromWeb(int year)
 	{
 		ExchangeRatesDocument exchangeRatesDocument = await ExchangeRatesOnlineDocument.LoadForYear(year);
 		Display(exchangeRatesDocument, "EUR");
 	}
 
+	/// <summary>
+	/// Retrieves the exchange rates from a local file.
+	/// The file must be in the same format as the one provided by the BNR website.
+	/// </summary>
 	private static async Task LoadExchangeRatesFromFile()
 	{
 		FileStream fileStream = File.OpenRead("nbrfxrates2005.xml");
