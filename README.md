@@ -1,5 +1,7 @@
 # BNR Toolkit
 
+[![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/lastunicorn/bnr-toolkit) [![GitHub Build](https://img.shields.io/github/actions/workflow/status/lastunicorn/bnr-toolkit/build-master.yml?logo=github)](https://github.com/lastunicorn/bnr-toolkit/actions/workflows/build-master.yml) [![NuGet Version](https://img.shields.io/nuget/v/DustInTheWind.Bnr.Toolkit?logo=nuget)](https://www.nuget.org/packages/DustInTheWind.Bnr.Toolkit) [![NuGet Downloads](https://img.shields.io/nuget/dt/DustInTheWind.Bnr.Toolkit?logo=nuget)](https://www.nuget.org/packages/DustInTheWind.Bnr.Toolkit)
+
 `BNR Toolkit` is a .NET library that helps you working with files and data exported from BNR.
 
 BNR is the National Bank of Romania (Banca Națională Română).
