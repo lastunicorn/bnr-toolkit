@@ -34,7 +34,7 @@ internal class ExchangeRatesOnlineStream : Stream
 		if (stream != null)
 			await stream.DisposeAsync();
 
-		
+
 		httpClient = new HttpClient();
 		httpResponseMessage = await httpClient.GetAsync(uri, cancellationToken);
 

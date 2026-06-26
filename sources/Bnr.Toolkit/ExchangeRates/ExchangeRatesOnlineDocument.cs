@@ -33,7 +33,7 @@ public static class ExchangeRatesOnlineDocument
 		const string urlTemplate = "https://www.bnr.ro/files/xml/years/nbrfxrates{0}.xml";
 		string url = string.Format(urlTemplate, year);
 		Uri uri = new(url);
-		
+
 		await using ExchangeRatesOnlineStream stream = new(uri);
 		await stream.Open(cancellationToken);
 

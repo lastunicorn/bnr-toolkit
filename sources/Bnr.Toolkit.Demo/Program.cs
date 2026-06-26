@@ -11,12 +11,12 @@ internal static class Program
 		// --------------------------------------------------
 		// Uncomment the method you want to test.
 		// --------------------------------------------------
-		
+
 		//await LoadExchangeRatesFromWeb1();
 		//await LoadExchangeRatesFromWeb10();
 		//await LoadExchangeRatesFromWeb(2026);
 		//await LoadExchangeRatesFromFile();
-		
+
 		await LoadExchangeRatesFromOldXml();
 	}
 
